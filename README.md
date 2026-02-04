@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-# 👋 Salut, moi c’est Milo !
+# 👋 Salut, moi c’est Josué Joachim !
 
 🎓 **Enseignant en mathématiques & technologies**  
 💻 **Ingénieur en électronique | Passionné de Data & IA**  
