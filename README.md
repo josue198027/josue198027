@@ -28,20 +28,20 @@ Mon objectif : **rendre la technologie utile, compréhensible et accessible**, s
 
 ##  Technologies & outils
 
-### 💻 Langages
-- Python 🐍
-- Java ☕
+###  Langages
+- Python 
+- Java 
 - SQL
 - JavaScript (bases)
 
-### 📊 Data & IA
+###  Data & IA
 - Pandas, NumPy
 - Matplotlib, Seaborn, Plotly
 - Scikit-learn
 - KNIME
 - MongoDB
 
-### 🗄️ Bases de données
+###  Bases de données
 - MySQL
 - PostgreSQL
 - MongoDB Atlas
@@ -78,7 +78,7 @@ Mon objectif : **rendre la technologie utile, compréhensible et accessible**, s
 ## 📫 Me contacter
 
 -  GitHub : [https://github.com/TON_NOM](https://github.com/TON_NOM)
--  Email : ton.email@example.com  
+-  Email : josuejoachim@aol.com  
 - Portfolio (optionnel) : à venir…
 
 ---
