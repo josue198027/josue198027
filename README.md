@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 
-#  Salut, moi c’est Josué Joachim !
+[#  Salut, moi c’est Josué Joachim !
 
+**Scientiste des données**
 **Enseignant en mathématiques & technologies**  
 **Ingénieur en électronique | Passionné de Data & IA**  
-**Science des données appliquée à l’éducation**
 
 ---
 
@@ -20,9 +20,10 @@ J’aime concevoir des solutions **simples, pédagogiques et efficaces**, en com
 - la **programmation**
 - l’**analyse de données**
 - les **bases de données**
+- le **developpement web**
 - et l’**intelligence artificielle**
 
-Mon objectif : **rendre la technologie utile, compréhensible et accessible**, surtout dans le milieu éducatif.
+Mon objectif : **rendre la technologie utile, compréhensible et accessible**,dans le milieu éducatif et organisationnel.
 
 ---
 
@@ -32,7 +33,7 @@ Mon objectif : **rendre la technologie utile, compréhensible et accessible**, s
 - Python 
 - Java 
 - SQL
-- JavaScript (bases)
+- R
 
 ###  Data & IA
 - Pandas, NumPy
@@ -43,7 +44,6 @@ Mon objectif : **rendre la technologie utile, compréhensible et accessible**, s
 
 ###  Bases de données
 - MySQL
-- PostgreSQL
 - MongoDB Atlas
 
 ### 🌐 Web & outils
@@ -57,7 +57,7 @@ Mon objectif : **rendre la technologie utile, compréhensible et accessible**, s
 ## 📚 Projets récents
 
 -  **Systèmes de gestion (Python & Java)**  
--  **Analyse de données sportives & éducatives**
+-  **Analyse de données statistiques**
 -  **Modèles de Machine Learning (KNN, Arbres, Random Forest)**
 -  **Chatbot IA avec LangChain & OpenAI**
 -  **Bases de données relationnelles & NoSQL**
@@ -83,5 +83,5 @@ Mon objectif : **rendre la technologie utile, compréhensible et accessible**, s
 
 ---
 
-⭐ *N’hésite pas à explorer mes dépôts et à laisser une étoile si un projet t’aide !*
+⭐ *N’hésite pas à explorer mes dépôts et à laisser une étoile si un projet t’aide !*](https://github.com/josue198027)
 
