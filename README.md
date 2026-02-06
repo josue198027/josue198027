@@ -77,7 +77,7 @@ Mon objectif : **rendre la technologie utile, compréhensible et accessible**, s
 
 ##  Me contacter
 
--  GitHub : [[https://github.com/TON_NOM](https://github.com/TON_NOM)](https://github.com/josue198027)
+-  GitHub : (https://github.com/josue198027)
 -  Email : josuejoachim@aol.com  
 - Portfolio (optionnel) : à venir…
 
