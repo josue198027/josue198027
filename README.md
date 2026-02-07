@@ -1,11 +1,6 @@
-## Hi there 👋
+## Hi ther
 
-
-**josue198027/josue198027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-[#  Salut, moi c’est Josué Joachim !
+Salut, moi c’est Josué Joachim !
 
 **Scientiste des données**
 **Enseignant en mathématiques & technologies**  
