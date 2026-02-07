@@ -34,7 +34,7 @@ Je m’intéresse à la Data Science, à l’IA et à la pédagogie numérique. 
 ### Contact
 - GitHub : https://github.com/josue198027
 - Email : josuejoachim@aol.com
-- Portfolio : à venir
+- Portfolio : https://josue198027.github.io/josuejoachim.github.io/
 
 ---
 
@@ -72,4 +72,4 @@ I’m interested in Data Science, AI, and digital education. I build simple, eff
 ### Contact
 - GitHub: https://github.com/josue198027
 - Email: josuejoachim@aol.com
-- Portfolio: coming soon
+- Portfolio: https://josue198027.github.io/josuejoachim.github.io/
