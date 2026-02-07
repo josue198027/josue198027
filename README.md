@@ -1,82 +1,75 @@
-## Hi ther
+# Josué Joachim
 
-Salut, moi c’est Josué Joachim !
+## Français
+Salut, je suis Josué Joachim.
 
-**Scientiste des données**
-**Enseignant en mathématiques & technologies**  
-**Ingénieur en électronique | Passionné de Data & IA**  
+Je m’intéresse à la Data Science, à l’IA et à la pédagogie numérique. Je conçois des solutions simples et efficaces (analyse de données, automatisation, applications web) avec une forte attention à la clarté et à l’impact dans les milieux éducatifs et organisationnels.
 
----
+### Profil
+- Scientiste des données
+- Enseignant en mathématiques et technologies
+- Ingénieur en électronique (orientation Data & IA)
 
-  À propos de moi
+### Technologies & outils
+**Langages :** Python, Java, SQL, R  
+**Data & IA :** Pandas, NumPy, Matplotlib, Seaborn, Plotly, scikit-learn, KNIME  
+**Bases de données :** MySQL, MongoDB Atlas  
+**Web & outils :** HTML/CSS, Flask, Git & GitHub, Netlify  
 
-Je suis un passionné de technologie et d’éducation.  
-J’aime concevoir des solutions **simples, pédagogiques et efficaces**, en combinant :
-- la **programmation**
-- l’**analyse de données**
-- les **bases de données**
-- le **developpement web**
-- et l’**intelligence artificielle**
+### Projets (exemples)
+- Systèmes de gestion (Python & Java)
+- Analyse de données statistiques
+- Machine Learning (KNN, arbres de décision, Random Forest)
+- Chatbot IA (LangChain & OpenAI)
+- Bases de données relationnelles & NoSQL
+- Sites web éducatifs et communautaires
 
-Mon objectif : **rendre la technologie utile, compréhensible et accessible**,dans le milieu éducatif et organisationnel.
-
----
-
-##  Technologies & outils
-
-###  Langages
-- Python 
-- Java 
-- SQL
-- R
-
-###  Data & IA
-- Pandas, NumPy
-- Matplotlib, Seaborn, Plotly
-- Scikit-learn
-- KNIME
-- MongoDB
-
-###  Bases de données
-- MySQL
-- MongoDB Atlas
-
-### 🌐 Web & outils
-- HTML / CSS
-- Flask
-- Git & GitHub
-- Netlify
-
----
-
-## 📚 Projets récents
-
--  **Systèmes de gestion (Python & Java)**  
--  **Analyse de données statistiques**
--  **Modèles de Machine Learning (KNN, Arbres, Random Forest)**
--  **Chatbot IA avec LangChain & OpenAI**
--  **Bases de données relationnelles & NoSQL**
--  **Sites web éducatifs et communautaires**
-
----
-
-##  Centres d’intérêt
-
+### Centres d’intérêt
 - Éducation & pédagogie numérique
 - Data Science & IA
 - Cybersécurité
 - Automatisation
-- Développement de projets concrets pour l’apprentissage
+- Projets concrets orientés apprentissage
+
+### Contact
+- GitHub : https://github.com/josue198027
+- Email : josuejoachim@aol.com
+- Portfolio : à venir
 
 ---
 
-##  Me contacter
+## English
+Hi, I’m Josué Joachim.
 
--  GitHub : (https://github.com/josue198027)
--  Email : josuejoachim@aol.com  
-- Portfolio (optionnel) : à venir…
+I’m interested in Data Science, AI, and digital education. I build simple, effective solutions (data analysis, automation, web apps) with a focus on clarity, usability, and real impact in educational and organizational contexts.
 
----
+### Background
+- Data Scientist
+- Math & Technology Teacher
+- Electronics Engineer (Data & AI focus)
 
-⭐ *N’hésite pas à explorer mes dépôts et à laisser une étoile si un projet t’aide !*](https://github.com/josue198027)
+### Tech stack
+**Languages:** Python, Java, SQL, R  
+**Data & AI:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, scikit-learn, KNIME  
+**Databases:** MySQL, MongoDB Atlas  
+**Web & tools:** HTML/CSS, Flask, Git & GitHub, Netlify  
 
+### Recent work (examples)
+- Management systems (Python & Java)
+- Statistical data analysis
+- Machine Learning models (KNN, Decision Trees, Random Forest)
+- AI chatbot (LangChain & OpenAI)
+- Relational & NoSQL databases
+- Educational and community websites
+
+### Interests
+- Education & instructional technology
+- Data Science & AI
+- Cybersecurity
+- Automation
+- Hands-on learning projects
+
+### Contact
+- GitHub: https://github.com/josue198027
+- Email: josuejoachim@aol.com
+- Portfolio: coming soon
