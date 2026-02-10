@@ -17,12 +17,14 @@ Je m’intéresse à la Data Science, à l’IA et à la pédagogie numérique. 
 **Web & outils :** HTML/CSS, Flask, Git & GitHub, Netlify  
 
 ### Projets 
+-Integration de Données-Ontario-511-via-SQL-Server
+- Sites web éducatifs et communautaires
 - Systèmes de gestion (Python & Java)
 - Analyse de données statistiques
 - Machine Learning (KNN, arbres de décision, Random Forest)
 - Chatbot IA (LangChain & OpenAI)
 - Bases de données relationnelles & NoSQL
-- Sites web éducatifs et communautaires
+  
 
 ### Centres d’intérêt
 - Éducation & pédagogie numérique
@@ -55,12 +57,14 @@ I’m interested in Data Science, AI, and digital education. I build simple, eff
 **Web & tools:** HTML/CSS, Flask, Git & GitHub, Netlify  
 
 ### Recent work 
+-Integration of data-Ontario-511-via-SQL-Server
+- Educational and community websites
 - Management systems (Python & Java)
 - Statistical data analysis
 - Machine Learning models (KNN, Decision Trees, Random Forest)
 - AI chatbot (LangChain & OpenAI)
 - Relational & NoSQL databases
-- Educational and community websites
+  
 
 ### Interests
 - Education & instructional technology
