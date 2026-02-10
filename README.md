@@ -16,7 +16,7 @@ Je m’intéresse à la Data Science, à l’IA et à la pédagogie numérique. 
 **Bases de données :** MySQL, MongoDB Atlas  
 **Web & outils :** HTML/CSS, Flask, Git & GitHub, Netlify  
 
-### Projets (exemples)
+### Projets 
 - Systèmes de gestion (Python & Java)
 - Analyse de données statistiques
 - Machine Learning (KNN, arbres de décision, Random Forest)
@@ -54,7 +54,7 @@ I’m interested in Data Science, AI, and digital education. I build simple, eff
 **Databases:** MySQL, MongoDB Atlas  
 **Web & tools:** HTML/CSS, Flask, Git & GitHub, Netlify  
 
-### Recent work (examples)
+### Recent work 
 - Management systems (Python & Java)
 - Statistical data analysis
 - Machine Learning models (KNN, Decision Trees, Random Forest)
